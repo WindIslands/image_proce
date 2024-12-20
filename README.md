@@ -2,6 +2,8 @@
 
 一个简单高效的图片批量处理工具，支持格式转换和压缩。基于 Wails + Vue3 开发。
 
+![image_proce.png](./images/image_proce.png)
+
 ## ✨ 功能特性
 
 - 🖼️ **多格式支持**
